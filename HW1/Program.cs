@@ -157,7 +157,8 @@ for (int i = 0; i < numbers.Length; i++)
         secondMax = numbers[i];
     }
 }
-*/
+
 Console.WriteLine(secondMax);
+*/
 
 #endregion
