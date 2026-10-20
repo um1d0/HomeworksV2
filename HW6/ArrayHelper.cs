@@ -48,7 +48,7 @@ namespace HW6
             {
                 if (array[i].Equals(x))
                 {
-                    return array.IndexOf(x);
+                    return i;
                 }
                
 
